@@ -1,0 +1,28 @@
+td.image {
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+.fm-hero-wrapper{
+	display: none;
+}
+.fm-one-item-wrapper{
+	display: none;
+}
+.fm-two-item-wrapper{
+	display: none;
+}
+.fm-three-item-wrapper{
+	display: none;
+}
+.fm-four-item-wrapper{
+	display: none;
+}
+.fm-title-only-wrapper{
+	display: none;
+}
+.fm-grid-wrapper{
+	display: none;
+}
