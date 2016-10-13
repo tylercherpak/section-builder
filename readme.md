@@ -2,7 +2,7 @@
 
 Section builder is a page template and theme plugin that allows us to build 'sections' in pages.
 
-What is Section Builder?
+What is Section Builder?  
 1. VIP Ready and compliant.  
 2. Fast.  
 3. Easily customized and tweaked for clients needs.  
@@ -11,7 +11,7 @@ What is Section Builder?
 
 A page can have as many sections as needed. Each Section is comprised a finite number of items. ( One item sections have one item, Two item sections have two items. ) This allows for easier styling since you will always know how many items to expect in a section. We can easily extend section builder by adding new "section types" or by adding new "item types". Currently there are four section types and one item type. The current item type consists of a link field, image field, title field, and an excerpt. As of now, it isn't as easy to add new sections as I would like. If you have ideas on the best way to abstract I would love to hear them, just submit a pull request.
 
-The section types currently are:
+The section types currently are:  
 1. Hero Section (one item)  
 2. One Item Section (one item)  
 3. Two Item Section (two items)  
