@@ -17,11 +17,11 @@ The section types currently are:
 3. Two Item Section (two items)  
 4. Three Item Section (three items)  
 
-_But wait what if I need two sections with three items._ We can easily extend section builder to add a new setion type with as many items as needed.
+_But wait what if I need two sections with three items?_ We can easily extend section builder to add a new setion type with as many items as needed.
 
 Section Builder makes use of [Fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager). If you have never used Fieldmanager before, their [demo plugin](https://github.com/alleyinteractive/fieldmanager-demos/tree/master/lib) is a great place to see all the cool stuff it can do. This allows us to easily extend and customize the items in sections very quickly.
 
-###Got something that you think would improve mini-base or section-builder?###
+###Got something that you think would improve section-builder?###
 Please submit a pull request!
 
 More info coming soon!
